@@ -1,0 +1,6 @@
+===REPORT===
+google: 6 (50.0%)
+youtube: 4 (33.3%)
+kinobar: 2 (16.7%)
+
+TOP SITE: google: 6 (50.0%)
